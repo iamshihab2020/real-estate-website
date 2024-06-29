@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Smith",
+    "occupation": "Software Engineer",
+    "testimonial_description": "I had a wonderful experience working with Sanctuary Real Estate. Their agents were highly professional and helped me find the perfect home for my family. They guided us through every step of the process and made it stress-free. I would highly recommend them to anyone looking to buy a home.",
+    "image_url": "https://images.unsplash.com/photo-1557862921-37829c790f19?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Emily Johnson",
+    "occupation": "Marketing Manager",
+    "testimonial_description": "Sanctuary Real Estate exceeded my expectations in selling my property. Their team was proactive, responsive, and knowledgeable about the market. They provided valuable insights and worked tirelessly to ensure a smooth transaction. I couldn't be happier with the results and would definitely use their services again.",
+    "image_url": "https://plus.unsplash.com/premium_photo-1677553953991-53f96b04fe72?q=80&w=1769&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Michael Brown",
+    "occupation": "Retired Teacher",
+    "testimonial_description": "I'm grateful to Sanctuary Real Estate for helping me find the perfect retirement home. Their agent listened to my needs and preferences and showed me properties that matched exactly what I was looking for. The entire process was seamless, and I'm now happily settled in my new home. Thank you, Sanctuary Real Estate!",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661680963608-4f84cc144c98?q=80&w=2063&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Sarah Williams",
+    "occupation": "Business Owner",
+    "testimonial_description": "I recently used Sanctuary Real Estate to lease commercial space for my business, and I couldn't be happier with the outcome. Their team was professional, attentive, and went above and beyond to negotiate favorable terms for me. I highly recommend their services to anyone in need of commercial real estate solutions.",
+    "image_url": "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]

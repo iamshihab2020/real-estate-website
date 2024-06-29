@@ -1,0 +1,56 @@
+[
+  {
+    "name": "John Kits",
+    "image": "https://cdn.pixabay.com/photo/2015/04/13/12/07/business-720429_1280.jpg",
+    "position": "CEO",
+    "comment": "John is the founder and CEO of our company. With over 20 years of experience in the real estate industry, he provides leadership and strategic direction to our team."
+  },
+  {
+    "name": "Emily Johnson",
+    "image": "https://media.istockphoto.com/id/1311655328/photo/im-the-best-asset-in-my-business.jpg?s=1024x1024&w=is&k=20&c=slgSdrwzwX_yohBts0TWsCgU8Dy4wodjwlOJlq4jdbA=",
+    "position": "Property Manager",
+    "comment": "Emily oversees property management operations, ensuring that our clients' properties are well-maintained and tenants' needs are met. She brings efficiency and organization to our property management department."
+  },
+  {
+    "name": "Michael Davis",
+    "image": "https://cdn.pixabay.com/photo/2019/06/17/09/09/man-4279493_1280.jpg",
+    "position": "Senior Real Estate Agent",
+    "comment": "Michael is a seasoned real estate agent with a proven track record of successful transactions. He provides expert guidance to clients in buying, selling, and renting properties."
+  },
+  {
+    "name": "Sarah Thompson",
+    "image": "https://media.istockphoto.com/id/1289220949/photo/successful-smiling-woman-wearing-eyeglasses-on-grey-wall.jpg?s=1024x1024&w=is&k=20&c=eoR874DTnDLA_OWLWx33uUN-TehChNGODFsRB2TlOgk=",
+    "position": "Marketing Manager",
+    "comment": "Sarah leads our marketing efforts, developing innovative strategies to showcase our listings and attract potential buyers. Her creative approach and attention to detail set our marketing campaigns apart."
+  },
+  {
+    "name": "David Wilson",
+    "image": "https://cdn.pixabay.com/photo/2017/11/02/14/26/model-2911329_1280.jpg",
+    "position": "Real Estate Broker",
+    "comment": "David is a licensed real estate broker with extensive knowledge of the local market. He assists clients in making informed decisions about buying or selling properties, ensuring smooth transactions."
+  },
+  {
+    "name": "Rachel Carter",
+    "image": "https://media.istockphoto.com/id/1325565779/photo/smiling-african-american-business-woman-wearing-stylish-eyeglasses-looking-at-camera-standing.jpg?s=1024x1024&w=is&k=20&c=-P5uHiSsLTF9Tt70-I2XKXqYYqjqbUpo0YcTw4489hA=",
+    "position": "Sales Associate",
+    "comment": "Rachel is dedicated to providing exceptional service to our clients. With her strong communication skills and attention to detail, she assists clients in finding their dream homes."
+  },
+  {
+    "name": "Mark Thompson",
+    "image": "https://media.istockphoto.com/id/1644238002/photo/business-confidence-and-portrait-black-man-with-smile-in-office-startup-ceo-or-owner-at-hr.jpg?s=1024x1024&w=is&k=20&c=EfEgJlgbd_BvAB9GHZ2Bt9COL7LYLX4U9TtK3J1K8-Q=",
+    "position": "Financial Analyst",
+    "comment": "Mark manages financial operations, analyzing market trends and forecasting financial performance. His insights contribute to our strategic decision-making process."
+  },
+  {
+    "name": "Jennifer White",
+    "image": "https://media.istockphoto.com/id/1354842602/photo/portrait-of-a-young-businesswoman-working-on-a-laptop-in-an-office.jpg?s=1024x1024&w=is&k=20&c=54vKxgvjNDIIluDBSM149PdK1J3cy_aAz-r3MS9WSfM=",
+    "position": "Client Relations Manager",
+    "comment": "Jennifer ensures client satisfaction by addressing their needs and concerns. She maintains strong relationships with clients and provides personalized support throughout the real estate transaction process."
+  },
+  {
+    "name": "Robert Johnson",
+    "image": "https://cdn.pixabay.com/photo/2024/02/16/20/03/ai-generated-8578267_1280.jpg",
+    "position": "Legal Counsel",
+    "comment": "Robert provides legal guidance and ensures compliance with real estate laws and regulations. His expertise minimizes legal risks and ensures smooth transactions for our clients."
+  }
+]
