@@ -9,6 +9,32 @@
 https://real-eastate-2024.web.app/
 
 
+## Clone
+
+To clone this project run
+
+```bash
+  git clone https://github.com/iamshihab2020/real-estate-website.git
+```
+
+
+
+## Deployment
+
+To run this project first run
+
+```bash
+  npm install
+```
+
+
+To run client side
+
+```bash
+  npm run dev
+```
+
+
 ## Features
 
 - Eye Catchy UI.
